@@ -1,0 +1,16 @@
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriter.exe
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriter.deps.json
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriter.runtimeconfig.json
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriter.runtimeconfig.dev.json
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriter.dll
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\bin\Debug\net5.0\ref\StreamWriter.dll
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\bin\Debug\net5.0\StreamWriter.pdb
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.csproj.AssemblyReference.cache
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.AssemblyInfo.cs
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.dll
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\ref\StreamWriter.dll
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.pdb
+C:\Users\mxthe\source\repos\StreamWriter\StreamWriter\obj\Debug\net5.0\StreamWriter.genruntimeconfig.cache
